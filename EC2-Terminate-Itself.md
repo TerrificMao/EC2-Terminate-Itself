@@ -32,6 +32,12 @@ Default output format [None]: json
 
 ![Image one](assets/04.png)
 
+![Image one](assets/05.png)
+
+
+
+----
+
 (Option) Create an IAM Instance Profile that allows this  instance to execute that command. here's an example IAM policy:
 
 ```json
